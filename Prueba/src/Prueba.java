@@ -5,6 +5,7 @@ public class Prueba {
 	
 			System.out.println("Esto es una prueba");
 			System.out.println("Esto es el segundo paso de la prueba");
+			System.out.println(" ");
 	}
 
 }
