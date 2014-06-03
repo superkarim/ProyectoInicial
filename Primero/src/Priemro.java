@@ -5,6 +5,7 @@ public class Priemro {
 	System.out.println("Hola buenas");
 	System.out.println("""""");
 System.out.println(123);
+System.out.println("hola karim ");
 	}
 
 }
