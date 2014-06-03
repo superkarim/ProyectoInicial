@@ -6,6 +6,7 @@ public class prueba2 {
 System.out.println("Hola buenas este es el primer cambio");
 System.out.println(" segundo cambio");
 System.out.println("tercer cambio");
+System.out.println(" ");
 
 	}
 
